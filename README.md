@@ -105,7 +105,3 @@ Pour une documentation détaillée de l'analyse et de la conception, veuillez co
 - [Logique de Gestion des Services](file:///c:/Users/viet/Desktop/TPs/PHP/service_Pro/GESTION_SERVICES_INTERVENANT_ADMIN.md)
 
 ---
-
-## 📜 Licence
-
-Distribué sous la licence MIT. Voir le fichier `LICENSE` (si disponible) pour plus d'informations.
